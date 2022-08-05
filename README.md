@@ -1,1 +1,1 @@
-https://terugokoizumi.github.io/gpowinstall/
+https://terugokoizumi.github.io/gpowinstall/gpaw
